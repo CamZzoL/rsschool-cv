@@ -65,6 +65,6 @@ Nevertheless my current goals is to have opportunity to work remotely most of th
 
 * Advanced Windows user
 * C++, C#, JS, SQL, HTML, CSS, Delphi - Beginner
-* English - C2 (based on [EF SET](https://www.efset.org/cert/Do1X7E ""))
+* English - C2 (based on [EF SET][https://www.efset.org/cert/Do1X7E])
 * Ukrainian, Russian - native
 * German - beginner
