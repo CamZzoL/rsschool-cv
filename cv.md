@@ -3,12 +3,15 @@
 ## POSTOIENKO VLADYSLAV
 ---
 ### Junior Frontend Developer
+
 ***
 Contacts
 * **Phone:** +380637679366
 * **E-Mail:** camzzol@ukr.net
 * **Telegram:** @CamZzoL
 * **Git-Hub:** @CamZzoL
+
+
 ---
 ## About Myself:
 Started my IT cereer as anykey IT-support. Ordinary day-time tasks included maintaining user Windows-based workstations and any other of ofice-tech. Organising server and comm rooms.
@@ -47,7 +50,7 @@ Nevertheless my current goals is to have opportunity to work remotely most of th
 
 ### IDEA CONSULTING
 
-####IT-Support TeamLead
+#### IT-Support TeamLead
 ##### 12-2019 - Nowdays
 
 * Managing IT Team schedgule
